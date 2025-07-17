@@ -139,17 +139,17 @@ const Navbar = ({ }: Props) => {
         >
           <div className="flex w-[350px] flex-col gap-2 rounded-[20px] bg-white p-4 shadow-xl shadow-shadow-500 dark:!bg-navy-700 dark:text-white dark:shadow-none">
             <div className="mb-2 aspect-video w-full rounded-lg bg-cover bg-no-repeat bg-[url('/img/layout/Navbar.png')]" />
-            <Link target="blank" href="https://horizon-ui.com/pro?ref=live-free-tailwind-react"
+            <Link target="blank" href="#"
               className="px-full linear flex cursor-pointer items-center justify-center rounded-xl bg-brand-500 py-[11px] font-bold text-white transition duration-200 hover:bg-brand-600 hover:text-white active:bg-brand-700 dark:bg-brand-400 dark:hover:bg-brand-300 dark:active:bg-brand-200"
             >
               Buy Horizon UI PRO
             </Link>
-            <Link target="blank" href="https://horizon-ui.com/docs-tailwind/docs/react/installation?ref=live-free-tailwind-react"
+            <Link target="blank" href="#"
               className="px-full linear flex cursor-pointer items-center justify-center rounded-xl border py-[11px] font-bold text-navy-700 transition duration-200 hover:bg-gray-200 hover:text-navy-700 dark:!border-white/10 dark:text-white dark:hover:bg-white/20 dark:hover:text-white dark:active:bg-white/10"
             >
               See Documentation
             </Link>
-            <Link target="blank" href="https://horizon-ui.com/?ref=live-free-tailwind-react"
+            <Link target="blank" href="#"
               className="hover:bg-black px-full linear flex cursor-pointer items-center justify-center rounded-xl py-[11px] font-bold text-navy-700 transition duration-200 hover:text-navy-700 dark:text-white dark:hover:text-white"
             >
               Try Horizon Free
