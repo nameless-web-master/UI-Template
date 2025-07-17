@@ -32,12 +32,6 @@ const routes = [
     path: "profile",
     icon: <MdPerson className="h-6 w-6" />,
   },
-  {
-    name: "RTL Admin",
-    layout: "/rtl",
-    path: "rtl",
-    icon: <MdHome className="h-6 w-6" />,
-  },
 ];
 
 export default routes;
