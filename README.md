@@ -1,5 +1,3 @@
-## This template is a expansion of [Horizon UI](https://horizon-ui.com) template, please check [`Horizon`](https://github.com/horizon-ui) for more templates.
-
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
