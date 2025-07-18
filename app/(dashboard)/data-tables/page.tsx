@@ -17,7 +17,7 @@ import tableDataComplex from "./variables/tableDataComplex.json";
 
 
 export const metadata: Metadata = {
-  title: 'DataTables | Horizon UI by Ories',
+  title: 'DataTables | Nameless UI by Ories',
 }
 
 const DataTablesPage = () => {

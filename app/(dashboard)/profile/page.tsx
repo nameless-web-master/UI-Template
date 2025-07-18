@@ -8,7 +8,7 @@ import Upload from "./components/Upload";
 
 
 export const metadata: Metadata = {
-  title: 'Profile | Horizon UI by Ories',
+  title: 'Profile | Nameless UI by Ories',
 }
 
 const ProfileOverview = () => {

@@ -29,7 +29,7 @@ const FreeCard = () => {
       <div className="mt-16 flex h-fit flex-col items-center">
         <p className="text-lg font-bold text-white">Upgrade to PRO</p>
         <p className="mt-1 px-4 text-center text-sm text-white">
-          Improve your development process and start doing more with Horizon UI
+          Improve your development process and start doing more with Nameless UI
           PRO!
         </p>
 
