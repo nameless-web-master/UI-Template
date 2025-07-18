@@ -37,7 +37,7 @@ const Sidebar: FC<Props> = () => {
           <Links onClickRoute={isMobile ? () => setOpenSidebar(false) : undefined} />
         </ul>
 
-        {/* Free Horizon Card */}
+        {/* Free Nameless Card */}
         <div className="flex justify-center">
           <SidebarCard />
         </div>
