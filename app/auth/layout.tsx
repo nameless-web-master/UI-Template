@@ -5,7 +5,7 @@ import Footer from "@/components/footer/FooterAuthDefault";
 
 
 export const metadata: Metadata = {
-    title: 'Auth | Nameless UI by Ories',
+    title: 'Auth | UI by Nameless',
 }
 
 export default function AuthLayout({

@@ -8,7 +8,7 @@ import tableDataTopCreators from "./variables/tableDataTopCreators.json";
 import { tableColumnsTopCreators } from "./variables/tableColumnsTopCreators";
 
 export const metadata: Metadata = {
-  title: 'NFT | Nameless UI by Ories',
+  title: 'NFT | UI by Nameless',
 }
 
 const NFTMarketPlacePage = () => {
